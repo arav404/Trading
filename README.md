@@ -1,4 +1,5 @@
-# Crude–Brent Pairs Trading Backtest (CL vs BZ)
+# Brent-Crude Pairs Trading Backtest (CL vs BZ)
+
 
 This repository contains a pairs trading research notebook that builds and evaluates a simple statistical arbitrage strategy between WTI Crude Oil and Brent Crude Oil using daily data.
 
